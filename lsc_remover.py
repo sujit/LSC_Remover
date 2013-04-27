@@ -1,7 +1,7 @@
 try:
     import os, sys, fnmatch
 except ImportError:
-    print 'Modules missing. Please install the required modules and try again.'
+    print '[+] Required modules missing.\n[+]Please install the required modules and try again.'
     sys.exit(0)
 
 def banner():
