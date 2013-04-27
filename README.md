@@ -19,4 +19,4 @@ Script will perform the following actions:
   That's it!
 
 Feedbacks:
-Please drop an email to: thesujit [at] gmail [dot] com if you have any suggestions/feedbacks.
+* Please drop an email to: thesujit [at] gmail [dot] com, if you have any suggestions/feedbacks.
