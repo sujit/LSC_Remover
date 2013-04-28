@@ -10,8 +10,9 @@ def banner():
 # Purpose:  Faster rebuilding of OpenVAS NVT Plugin caches
 # Date:     27th April 2013
 # Author:   Sujit Ghosal
-# Email:    thesujit@gmail.com
-#
+# Email:    x13.x37@gmail.com
+# Blog:     http://wikisecure.net/
+# 
 # NOTE:     Use this script ONLY if you dont need to make use of Local Security Checks (LSC)!
 ##################################################################################\n'''
 
